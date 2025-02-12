@@ -1,25 +1,46 @@
-# 🗺️ Google Maps Clone 🌍  
-A **fully interactive Mapbox-based** Google Maps clone with **real-time location tracking, directions, and a minimap**.  
+# Google Maps Clone App 🌍
 
-![Google Maps Clone Preview](https://user-images.githubusercontent.com/674621/71187839-5b9b9000-2262-11ea-8b3a-0d4f2eb75693.png)  
+Welcome to the **Google Maps Clone App**! This project leverages the powerful **Mapbox API** to create a real-time world map with features similar to Google Maps. The app utilizes the browser's **geolocation API** and **Mapbox plugins** to provide a seamless mapping experience.
 
-## 🚀 Features  
-✅ **Live Location Tracking** – Auto-detects user location (with permission).  
-✅ **Search & Directions** – Find routes between places using Mapbox Directions API.  
-✅ **Interactive Globe Minimap** – Zoom out to see a global view.  
-✅ **Geolocation Button** – Click to re-center on your location.  
-✅ **Smooth UI** – Responsive design with seamless zoom & pan.  
-✅ **Customizable Map Styles** – Change map themes easily.  
+<img src="https://github.com/Subhampreet/Google-Map-Clone/blob/main/media/header-1.png" alt="Google Maps Clone App Screenshot" width="800">
 
 ---
 
-## 📦 Installation & Setup  
-### **1️⃣ Get a Free Mapbox Access Token**  
-1. Sign up at **[Mapbox](https://www.mapbox.com/)**.  
-2. Go to **Account > Access Tokens**.  
-3. Copy your **public token**.  
+## Features �
 
-### **2️⃣ Clone This Repository**  
-```sh
-git clone https://github.com/yourusername/google-maps-clone.git
-cd google-maps-clone
+The Google Maps Clone App comes packed with the following features:
+
+- **Real-Time World Map Navigation**: Explore the world with smooth and interactive map navigation.
+- **Shortest Path Calculation**: Find the shortest route between two destinations.
+- **Multi-Mode Transport Directions**: Get directions and estimated travel times for different modes of transport, including:
+  - 🚗 Driving
+  - 🚴 Cycling
+  - 🚶 Walking
+  - 🚦 Traffic-aware routes
+
+---
+
+## Technologies Used 🛠️
+
+- **Mapbox GL JS**: For rendering interactive maps and providing geolocation services.
+- **Browser Geolocation API**: To fetch the user's current location.
+- **HTML, CSS, JavaScript**: For building the front-end interface.
+- **Mapbox Plugins**: For additional functionalities like routing, geocoding, and more.
+
+---
+
+## Getting Started 🏁
+
+To get started with the Google Maps Clone App, follow these steps:
+
+### Prerequisites
+
+- A **Mapbox Access Token**. You can get one by signing up at [Mapbox](https://www.mapbox.com/).
+- A modern web browser with **JavaScript** enabled.
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Subhampreet/Google-Map-Clone.git
+   cd Google-Map-Clone
