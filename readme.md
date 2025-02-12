@@ -44,3 +44,9 @@ To get started with the Google Maps Clone App, follow these steps:
    ```bash
    git clone https://github.com/Subhampreet/Google-Map-Clone.git
    cd Google-Map-Clone
+
+
+2.**Add Mapbox Token**:
+-A Replace YOUR_MAPBOX_ACCESS_TOKEN in index.html with your Mapbox token.
+3.**Run the App**:
+-Open index.html in your browser.
